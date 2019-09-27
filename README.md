@@ -1,3 +1,11 @@
+1. Create a react app
+2. Replace everything in `public` with index.html and style.css
+3. Put index.js in `src`
+4. Inside `src` create a folder called `components`
+5. Put Home.js and Body.js inside `components`
+
+index.html and style.css must be placed in the `public` folder when 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
